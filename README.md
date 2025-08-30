@@ -25,7 +25,7 @@ Este proyecto automatiza la **descarga de tesis** y el **análisis de asesores**
 
 1. Clona el repositorio:
 ```bash
-git clone [URL_DEL_REPOSITORIO]
+git clone [https://github.com/sudorios/fausti-script]
 cd scrapy
 ```
 
@@ -105,4 +105,4 @@ Install the dependencies:
 
 ```bash
 pip install requests beautifulsoup4 matplotlib
-# fausti-script
+
