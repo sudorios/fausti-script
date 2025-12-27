@@ -1,0 +1,40 @@
+📊 Ranking de asesores más repetidos:
+
+Asesor                                             | Cantidad
+-----------------------------------------------------------------
+Sosa Palomino, Alcibiades Flamencio                | 11
+Meyhuay Fidel, Juan Carlos                         | 8
+Rios Herrera, Josue Joel                           | 7
+Cruz Castaneda, Carlos Manuel                      | 7
+Barrera Loza, Ana Doris Magdalena                  | 7
+Quispe Soto, Eddy Ivan                             | 7
+Farro Pacifico, Edwin Invan                        | 7
+Gallardo Andres, Jhonar Angel                      | 6
+Manrique Quinonez, Javier Alberto                  | 6
+Marin Rodriguez, William Joel                      | 5
+Chinga Ramos, Carlos Enrique                       | 5
+Rodriguez Lopez, Guido German                      | 5
+Huaman Tena, Angel                                 | 5
+Flores Flores, Ronald Demetrio                     | 4
+Lopez Jimenez, Alfredo Edgar                       | 4
+Soto La Rosa, Jose German                          | 4
+Martinez Chafalote, Ulises Robert                  | 3
+Carreno Cisneros, Edgardo Octavio                  | 3
+Jamanca Alberto, Teodorico                         | 2
+Guerrero Hurtado, Julio Enrique                    | 2
+Diaz Valladares, Cesar Armando                     | 2
+Leon Julca, Manuel Antonio                         | 2
+Blas Flores, Felimon                               | 1
+Bruno Romero, Carlos Alberto                       | 1
+Torres Calderon, Alex Fidel                        | 1
+Sanchez Guzman, Jorge Antonio                      | 1
+Chavez Zavaleta, Raul                              | 1
+Vergara Quiche, Renzo Ivan                         | 1
+Lino Escobar, Erlo Wilfredo                        | 1
+De Los Santos Garcia, Juan Carlos                  | 1
+Armas Inga, Moises Emilio                          | 1
+Espezua Serrano, Victor Fredy                      | 1
+Andrade Giron, Daniel Cristobal                    | 1
+Galindo Santiago, Adolfo                           | 1
+-----------------------------------------------------------------
+TOTAL                                              | 124

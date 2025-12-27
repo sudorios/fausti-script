@@ -3,7 +3,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
-Este proyecto automatiza la **descarga de tesis** y el **análisis de asesores** del repositorio institucional de la Universidad Nacional José Faustino Sánchez Carrión (UNJFSC).
+Este repositorio agrupa scripts para automatizar algunos procesos de la Universidad Nacional José Faustino Sánchez Carrión (UNJFSC). En particular, automatiza la **descarga de tesis** y el **análisis de asesores** del repositorio institucional.
 
 ## 🚀 Características  
 
